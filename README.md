@@ -1,0 +1,2 @@
+# ZailEdge
+my earning app 
